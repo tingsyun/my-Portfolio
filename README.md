@@ -29,7 +29,7 @@
 ---
 
 ### 2️⃣ [資源回收地圖遊戲]
- [🌐 線上 Demo](https://yu-tung.itch.io/final-project)
+ [🌐 線上 Demo](https://yu-tung.itch.io/final-project) 僅支援手機
  
  **描述**：一款基於 Unity 的 3D與2D 互動遊戲，支援 WebGL 部署，結合回收知識達到教育理念。 
 
